@@ -1,0 +1,34 @@
+//==========================================================================
+//                             RPS Stuff
+//==========================================================================
+
+"gameLocalization" = "Morra Cinese";
+
+//Gameplay
+"statusWon"     = "Hai vinto";
+"statusLost"    = "Hai perso";
+"statusTie"     = "E 'un pareggio";
+"resultLost"    = "Hai perso. Riprovare %d - %d";
+"resultWon"     = "Complimenti mi hai battuto. Lei ha vinto %d - %d";
+"shareLost"     = "Ho perso %d - %d con MC.";
+"shareWon"      = "Ho battuto MC %d - %d.";
+
+"maxPoints"     = "Punti di massimo";
+"notificationPointChange"   = "I punti non possono essere cambiati durante il gioco.";
+"noInternet" = "La condivisione non è disponibile senza collegamento.";
+"playAgain" = "Volete giocare ancora?";
+"Yes" = "Sì";
+"No" = "No";
+"Cancel" = "Annullare";
+"SingleP" = "Single Player";
+"MultiP" = "Multiplayer";
+"Settings" = "Impostazioni";
+"gotoS" = "Vai alle impostazioni.";
+"setMN" = "Si prega di impostare il proprio nome prima di giocare in multiplayer.";
+"quit" = "Il tuo avversario appena smesso.";
+"loading" = "Caricamento...";
+"submit" = "Carico";
+"fail" = "Mancato";
+"high" = "punteggi più alti";
+"plAg" = "Il tuo avversario vuole giocare di nuovo";
+"res" = "Ripristino";

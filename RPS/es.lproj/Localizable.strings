@@ -1,0 +1,40 @@
+/* 
+  Localizable.strings
+  RPS
+
+  Created by Martin Goffan on 6/17/11.
+  Copyright 2011 __MyCompanyName__. All rights reserved.
+*/
+"gameLocalization" = "PPoT";
+
+
+//Gameplay
+"statusWon"     = "Ganaste";
+"statusLost"    = "Perdiste";
+"statusTie"     = "Empatamos";
+"resultLost"    = "Perdiste. Segui participando %d - %d";
+"resultWon"     = "Felicitaciones, me ganaste %d - %d";
+"shareLost"     = "Perdí %d - %d con PPoT.";
+"shareWon"      = "Le gané %d - %d a PPoT.";
+
+"maxPoints"     = "Puntos Maximos";
+
+//Notifications
+"notificationPointChange"   = "No se pueden cambiar los puntos durante un juego.";
+"noInternet" = "Compartir no está disponible sin conexión.";
+"playAgain" = "¿Desea volver a jugar?";
+"Yes" = "Si";
+"No" = "No";
+"Cancel" = "Cancelar";
+"SingleP" = "Un solo jugador";
+"MultiP" = "Multijugador";
+"Settings" = "Opciones";
+"gotoS" = "Ir a settings.";
+"setMN" = "Configure su nombre de multijugador antes de jugar.";
+"quit" = "Su oponente acaba de salir.";
+"loading" = "Cargando...";
+"submit" = "Subido";
+"fail" = "Fallo";
+"high" = "Highscores";
+"plAg" = "Tu oponente quiere jugar de nuevo.";
+"res" = "Reseteando...";
